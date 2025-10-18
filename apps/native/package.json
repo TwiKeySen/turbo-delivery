@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^2.2.0",
-    "@repo/ui": "*",
     "@shopify/flash-list": "^2.1.0",
     "@tamagui/config": "^1.99.5",
     "@tamagui/core": "^1.99.5",
